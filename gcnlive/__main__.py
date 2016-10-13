@@ -1,4 +1,4 @@
-"""Entry point for Swift Live.
+"""Entry point for GCNLive.
 """
 
 if __name__ == "__main__":

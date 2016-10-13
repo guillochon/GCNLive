@@ -1,4 +1,4 @@
-"""Swift Live: Twitter updates for the Swift Telescope
+"""GCN Live: Twitter updates for the GCNs
 """
 
 __version__ = '0.1.0'
